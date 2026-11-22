@@ -1,0 +1,8 @@
+[
+  {
+    "id": "kre",
+    "name": "크레 사육장",
+    "temperature": "sensor.living_room_onseubdosenseo_keure_temperature",
+    "humidity": "sensor.living_room_onseubdosenseo_keure_humidity"
+  }
+]
